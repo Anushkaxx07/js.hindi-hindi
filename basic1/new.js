@@ -8,3 +8,15 @@
 let n="anushka";
 let tobool=Boolean(n);
 console.log(tobool);
+
+
+//*****operation*********
+
+let a=3;
+let neg=-a 
+
+//comparison
+
+console.log(null>0);
+console.log(null==0);
+console.log(null>=0);
